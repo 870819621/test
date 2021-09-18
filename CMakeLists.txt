@@ -5,4 +5,4 @@ project (niuke)
 SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
  
 # add the executable
-ADD_EXECUTABLE(niuke source.cpp) 
+ADD_EXECUTABLE(niuke main.cpp) 
